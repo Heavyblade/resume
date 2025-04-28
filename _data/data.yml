@@ -9,13 +9,12 @@ sidebar:
 
   # Profile information
   name: Cristian Vasquez
-  tagline: Senior RoR Developer
+  tagline: Senior Ruby Developer
   avatar: profile.jpeg
 
   # Sidebar links
   email: cristianvg2003@gmail.com
   timezone: America/Bogota
-  citizenship:
   website: https://medium.com/@cristianvg # Include the full website URL, including "http://" or "https://".
   linkedin: cristian-camilo-vasquez-gaviria
   github: Heavyblade
@@ -82,14 +81,6 @@ education:
   - degree: Accountant
     university: Universidad de Antioquia.
     time: 2000 - 2005
-    details: |
-      Describe your study here. Lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
 
 experiences:
   title: Experience
@@ -104,23 +95,22 @@ experiences:
 
       As a Lead, my role requires a strong mix of hard and soft skills to coordinate my team and fulfill these responsibilities:
 
-        - Evaluate and architect large-scale projects.
+        - Evaluate and architect payment methods, authentication and schema related integration projects.
         - Implement various flows for payment gateway integrations.
         - Mentor teammates and ensure the team's conceptual clarity on payments-related work.
         - Assist in coordinating implementation with external clients.
-        - Support Endava's development discipline in creating and coordinating the Ruby community.
 
-      Endava Senior Transversal Team Support:
+      As Endava Senior Transversal Team Support:
         - Support Endava in the selection process with technical interviews.
         - Support the Ruby community by creating the Ruby skill matrix, learning path, and pass-it-ons.
         - Support development discipline as a Copilot Champion in Copilot-related training.
+        - Perform the Career Coach for some folks in Endava.
 
   - role: Senior Software Engineer
     time: 2020 - 2021
     company: Endava - HR Company
     details: |
-      As a senior developer, I worked with an Endava client on a human resource-oriented
-      application. My role as a sole contributor was to develop full-stack features
+      As a senior developer, I HR oriented pplication. My role as a single contributor was to develop full-stack features
       for the platform while simultaneously finding ways to enhance its efficiency. In the
       course of this work, my responsibilities included:
 
@@ -130,7 +120,7 @@ experiences:
         - Assisting teammates with complex database-related tasks.
 
   - role: Software Engineer
-    time: 2016 - 2020
+    time: 2018 - 2020
     company: Endava - Marketing Aggregating Company.
     details: |
       As a Ruby developer, I worked on the ETL side of a marketing company, primarily creating and adding
@@ -152,9 +142,9 @@ projects:
 
   - title: Velneo Plugins
     link: "https://heavyblade.github.io/cirrus/plugins.html"
-    tagline: "A set of plugins, mostly cloud integrations (AWS S3, Dropbox, OneDrive, SendGrid, etc.) for the Velneo V7 Platform"
+    tagline: "A set of velneo v7 plugins, mostly cloud integrations (AWS S3, Dropbox, OneDrive, SendGrid, etc.)"
 
-  - title: RiakG
+  - title: Riakg
     link: "https://github.com/Heavyblade/Riakg"
     tagline: "A Go CLI to interact with the Riak Database"
 
