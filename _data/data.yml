@@ -18,7 +18,7 @@ sidebar:
   website: https://medium.com/@cristianvg # Include the full website URL, including "http://" or "https://".
   linkedin: cristian-camilo-vasquez-gaviria
   github: Heavyblade
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: 'http://Heavyblade.github.io/resume/assets/resume_ccv.pdf' # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
