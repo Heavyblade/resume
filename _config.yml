@@ -2,7 +2,7 @@
 
 # Site Settings
 title: CristiaV Resume
-url: 'http://Heavyblade.github.io/resume'
+url: 'https://Heavyblade.github.io/resume'
 
 #change it according to your repository name
 # disabling since we are using a custom domain
@@ -31,6 +31,6 @@ compress_html: # - http://jch.penibelst.de/
     envs: development
 
 # Development Settings
-port: 4000
+port: 4400
 host: 0.0.0.0
 safe: false
