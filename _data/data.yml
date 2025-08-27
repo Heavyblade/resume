@@ -45,7 +45,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am a seasoned Ruby developer with over 14 years of hands-on experience, driven by a passion for challenges and continuous learning. Having forged my path as a self-made developer, I thrive in dynamic environments where problem-solving and innovation are paramount.
+    Software engineering leader with 14+ years of experience delivering scalable platforms across payments, HR, marketing, and education. As a Tech Lead, I have led architectural design, integrated critical payment solutions with Visa and Mastercard, and delivered numerous gateway implementations while mentoring teams and driving agile excellence. An AI-native professional, I contribute to AI initiatives within Endava and use modern AI tools daily to enhance productivity, decision-making, and engineering outcomes.
 
 skills:
   title: Technical Skills 
@@ -67,6 +67,9 @@ skills:
     level: 70%
 
   - name: Golang
+    level: 60%
+
+  - name: Python
     level: 60%
 
   - name: React - Javascript
